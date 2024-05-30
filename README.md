@@ -11,7 +11,7 @@ It only support color that discord have set.
 ```js
 const { TextColorize } = require('codeblock-color');
 
-const text = '%_this part will be blue %cand this par will have a orange background';
+const text = '%_this part will be blue %_and this par will have a orange background';
 
 const colorizedText = new TextColorize(text, { textColor: 'BLUE' }, { bgColor: 'ORANGE' });
 

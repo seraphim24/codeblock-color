@@ -1,0 +1,26 @@
+{
+  "name": "codeblock-color",
+  "version": "1.0.0",
+  "description": "A package to add style in codoblock create from markdown on discord.",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seraphim24/codeblock-color.git"
+  },
+  "keywords": [
+    "color",
+    "colour",
+    "discord",
+    "discord-bot"
+  ],
+  "author": "Seraphim Slaiman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seraphim24/codeblock-color/issues"
+  },
+  "homepage": "https://github.com/seraphim24/codeblock-color#readme"
+}

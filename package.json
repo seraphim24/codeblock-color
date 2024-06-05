@@ -1,6 +1,6 @@
 {
   "name": "codeblock-color",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A package to add style in codoblock create from markdown on discord.",
   "main": "dist/index.js",
   "scripts": {
@@ -22,5 +22,15 @@
   "bugs": {
     "url": "https://github.com/seraphim24/codeblock-color/issues"
   },
-  "homepage": "https://github.com/seraphim24/codeblock-color#readme"
+  "homepage": "https://github.com/seraphim24/codeblock-color#readme",
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/seraphim24"
+    },
+    {
+      "type": "ko-fi",
+      "url": "https://ko-fi.com/zectos"
+    }
+  ]
 }
